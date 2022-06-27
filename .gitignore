@@ -16,3 +16,4 @@
 *.lvlps
 .cache/
 Exercises/Speech Recorder 9/Speech Recorder.aliases
+*.aliases
